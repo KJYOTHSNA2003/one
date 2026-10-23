@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>NexusShop — Modern E‑Commerce</title>
+    <title>NexusShop — modern and old E‑Commerce</title>
 
     <!-- Fonts & Icons -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
@@ -1309,7 +1309,7 @@
                         <i class="fas fa-store-alt"></i>
                         <span>Nexus<span class="accent">Shop</span></span>
                     </div>
-                    <p>Modern e‑commerce demo built with care. Quality products, seamless experience.</p>
+                    <p>modern and old e‑commerce demo built with care. Quality products, seamless experience.</p>
                     <div class="socials">
                         <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
                         <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
